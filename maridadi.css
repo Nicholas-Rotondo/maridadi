@@ -1,0 +1,89 @@
+body {
+  margin:0;
+  padding:0;
+  height:100%;
+  width: 100%;
+  color: black;
+  overflow-x: hidden;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #e9e9e9;
+}
+
+.jumbotron {
+  background-image: url("./apt2.jpg");
+  height: 750px;
+  font-size: 20px;
+  background-size: cover;
+  background-position: center;
+  margin: 0;
+}
+
+.navbar {
+  height: 100px;
+  width: 100%;
+  background-color: #ACCBE1;
+}
+
+#maridadi {
+  font-size: 32px;
+}
+
+.navbar-nav {
+  float:right;
+}
+
+.container {
+  width: 100%;
+}
+
+#information-bar {
+  text-align: center;
+  background-color: #fffaf0;
+  height: 10%;
+}
+
+.right {
+  text-align: left;
+  width: 100%;
+}
+
+.img-holder {
+ width: 100%;
+ height: 550px;
+ background-color: #e9e9e9;
+}
+
+.img-holder2 {
+ width: 100%;
+ height: 550px;
+ background-color: #e9e9e9;
+}
+
+#kit {
+  width: 50%;
+  height: 550px;
+  float: left;
+}
+
+#kit1 {
+  width: 50%;
+  height: 550px;
+  float: right;
+}
+
+.pool {
+  height: 10%;
+  width: 100%;
+  background-color: #fffaf0;
+  text-align: center;
+}
+#pool {
+  height: 500px;
+  width: 100%;
+}
+
+.footer {
+  background-color: blue;
+}
